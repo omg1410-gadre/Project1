@@ -1,11 +1,9 @@
 .container {
-  display: grid;
-  grid-template-columns: 900px 600px;
-  background-color: #3366ff;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-image: url("wallpaper.jpg");
+  height: 100vh;
 }
 .header{
   font-size: 40px;
