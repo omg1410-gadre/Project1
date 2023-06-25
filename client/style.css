@@ -2,7 +2,10 @@
   display: grid;
   grid-template-columns: 900px 600px;
   background-color: #3366ff;
-  background-image: url("index.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("wallpaper.jpg");
 }
 .header{
   font-size: 40px;
