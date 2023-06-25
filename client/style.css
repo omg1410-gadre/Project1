@@ -1,8 +1,8 @@
 .container {
   display: grid;
-  grid-template-columns: 700px 500px;
+  grid-template-columns: 900px 600px;
   background-color: #3366ff;
-  background-image: url("/projectg/client/index.jpeg");
+  background-image: url("index.jpeg");
 }
 .header{
   font-size: 40px;
